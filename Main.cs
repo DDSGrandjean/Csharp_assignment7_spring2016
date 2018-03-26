@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Assignment7
 {
-    class Program
+    class Main
     {
         static void Main(string[] args)
         {
